@@ -1,0 +1,14 @@
+var first_name="Aadya";
+console.log(first_name);
+var last_name="agarwal";
+console.log(last_name);
+var full_name=first_name.concat(last_name);
+console.log(full_name);
+var full=first_name+" "+last_name;
+console.log(full);
+var sr=Math.sqrt(25);
+console.log(sr);
+var a=50;
+var b=60;
+var add= a + b;
+console.log(add);
